@@ -1,1 +1,0 @@
-../Gaming Notebook/Genesys/Vier Reiterinnen.md
