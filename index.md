@@ -1,3 +1,3 @@
 # Genesys Game 
 
-What on heck
+A collection of information.
