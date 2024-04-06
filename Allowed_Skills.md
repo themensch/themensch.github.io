@@ -1,3 +1,12 @@
+---
+title: Allowed_Skills
+aliases: 
+tags: rpg, Genesys
+sources:
+created: 2024-04-06T14:36
+modified: 2024-04-06T15:04
+---
+
 |Name|Characteristic|Category|Source|
 |----|--------------|--------|------|
 |Arcana|Intellect|Magic|CRB|

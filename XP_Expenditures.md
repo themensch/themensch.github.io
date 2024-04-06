@@ -1,12 +1,21 @@
+---
+title: XP_Expenditures
+aliases: 
+tags: rpg, Genesys
+sources:
+created: 2024-04-05T21:01
+modified: 2024-04-06T15:05
+---
+
 # XP Expenditures
 
-## At Character Creation:
+## At Character Creation
 
 - Add an additional 50 XP. This cannot be spent on characteristics, just skills and talents.  
 - No Skill ranks above rank 2 may be purchased.  
 - No Talents above tier 2
 
-## XP Rewards:
+## XP Rewards
 
 - Goal completion fuels XP
 - Milestones is where XP will be rewarded, but tallied per session
