@@ -1,10 +1,10 @@
 ---
-title: Microscope_Worldbuilding
+title: Microscope Worldbuilding
 aliases: 
 tags: rpg, Genesys
 sources:
 created: 2024-04-05T21:12
-modified: 2024-04-06T15:04
+modified: 2024-04-06T15:14
 ---
 
 # Microscope Worldbuilding

@@ -1,10 +1,18 @@
 ---
+title: XP Expenditures
+aliases: 
+tags: 
+sources:
+created: 2024-04-06T15:07
+modified: 2024-04-06T15:14
+---
+ ---
 title: XP_Expenditures
 aliases: 
 tags: rpg, Genesys
 sources:
 created: 2024-04-05T21:01
-modified: 2024-04-06T15:05
+modified: 2024-04-06T15:14
 ---
 
 # XP Expenditures

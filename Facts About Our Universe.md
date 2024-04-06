@@ -1,10 +1,10 @@
 ---
-title: Facts_About_Our_Universe
+title: Facts About Our Universe
 aliases: 
 tags: rpg, Genesys
 sources:
 created: 2024-04-06T14:39
-modified: 2024-04-06T14:59
+modified: 2024-04-06T15:14
 ---
 
 # Facts About Our Universe
