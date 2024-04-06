@@ -1,3 +1,3 @@
-# Genesys Game 
+# Genesys Game
 
 A collection of information.
