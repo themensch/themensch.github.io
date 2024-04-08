@@ -8,4 +8,4 @@ modified: 2024-04-06T15:15
 nav_exclude: true
 ---
 
-Ahoy matey
+This is just some stuff I use.
