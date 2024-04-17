@@ -4,7 +4,7 @@ aliases:
 tags: rpg, Genesys
 sources:
 created: 2024-04-06T14:39
-modified: 2024-04-06T15:14
+modified: 2024-04-10T18:33
 ---
 
 # Facts About Our Universe

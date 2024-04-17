@@ -4,7 +4,7 @@ aliases:
 tags: rpg, Genesys
 sources:
 created: 2024-04-05T21:12
-modified: 2024-04-06T15:14
+modified: 2024-04-16T18:28
 ---
 
 # Microscope Worldbuilding

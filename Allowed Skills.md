@@ -4,7 +4,7 @@ aliases:
 tags: rpg, Genesys
 sources:
 created: 2024-04-06T14:36
-modified: 2024-04-06T15:14
+modified: 2024-04-16T18:26
 ---
 
 |Name|Characteristic|Category|Source|

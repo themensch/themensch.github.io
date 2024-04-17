@@ -1,0 +1,111 @@
+---
+title: Decuma Notes
+aliases: 
+tags: Genesys, Campaign/Cosmic_Dispersal 
+sources:
+created: 2024-04-15T20:34
+modified: 2024-04-15T21:00
+---
+
+Session Notes
+
+- Campaign + group name needed 
+- Characters
+    - Matt R (Crick) - roach person (Vescus (sp?) species)
+        - Raised by humans on nearby planet
+        - Survivalist/melee
+        - Real name Chester Tackit (sp?)
+    - Roger (Dr. Ian Parkman) - human 
+        - mad alchemist/scientist/bio-chemist
+    - Mike - (Rex and Hex) - two headed male/female (Twynar species)
+        - Rex (male) - Ranged gunner
+        - Hex (female) - wizard 
+            - Magic - absorb/learn by planet or skillset
+            - Eat mushrooms, perceive more
+- Potential notes outside of Decuma
+    -  On the planet to assess how terraforming is going?
+        - Someone heard Crick was good with animals - security
+- Decuma Group Dynamics
+    - Setting - mostly planet side
+    - Tone - light hearted/comedy, somewhat realistic (no walking in space, etc.), somewhat campy (slightly past the impossible and a bit cliché), fifth element/firefly/etc.
+    - Location - Interstice
+        - Habitat space station (size maybe 1,500-2,000 people)
+        - Will be atmosphere, but less livable in some areas - people concentrate to crevices which are more livable at the bottoms
+        - Earth like - decided to terraform
+            - Found resource while terraforming
+            - Other stations around the plant in cracks
+            - Water not rare
+    - We were involved in a mystery
+        - Found another crevice, sent initial team to build, suddenly all wiped out, we traveled and determine encroaching species that came in through air ducting/conversion units
+            - Native species and our terraforming changed them (terraforming impacts lifeforms)
+            - Plant/vine that absorbs oxygen and explodes when trying to remove
+    - Parkman harmed Crick once and crick doesn't know it was him
+        - Parkman performed an experiment on volunteers, Crick got infected. Parkman says it was picked up on last mission, feels guilty
+    - When they need advice Rex always comes to Crick
+        - Rex always goes to Crick and pissed off Hex who knows better
+        - You knew Crick before joining the group and were jealous of them. Why
+            - Hex Jealous that Crick is street smart and she isn't
+    - Our group had a string of good luck and did something amazing
+        - We did an expedition that found perspective crevice that contains the rare resource. Are known to corporation and people now.
+            - Used funds to buy truck. Truck includes lab (+ lab exists in crevice)
+    - There is an annoying problem in our location that we haven't been able to fix. What is it?
+        - The Outs on the surface are run by criminals or leftovers from other nearby cities, survival of the fittest
+        - Limited policing - can't deal with the Outs
+    - Someone in our location makes sure everything gets done
+        - Harold Hoskins - chief supply officer. In charge of ordering stuff from off planet, keeps engineers terraforming in line, keeps police in line as he owns food and guns.
+    - What resources are squandered in our location and what are they used for?
+        - There is an abundance of not overly aggressive, but quite meaty bugs that are baseball sized. They are a great food source, but shitty tasting. Used to fill out meals (bug soup)
+        - Combine beetle and centipede, hard exoskeleton
+        - Glorpolids (sp?). Found at bottom/outskirts of cavern. Travel via wind and blow into crevice
+    - Our group is trying to keep our location from changing. What is changing and why do we want it to stay the same
+        - More corpo money is coming in with the resource discovery. Corpos are trying to buy up land and jacking up prices. They are interfering more and more
+        - We are freelancers, but not supportive of corpos.
+        - Culture is becoming more regimented and regulated and like other systems
+        - Parkman was there first/solo, had no support and got burnt out and ended up just doing his own thing. Now more oversight
+        - Company wars - 3+ companies fighting (maybe we are trying to start an actual war between them?)
+    - Crick shares an epic failure with Dr Parkman and it brought them closer
+        - They went to explore a site, crick is leading and gets them lost. They get brought to the brink of death and bond as they survive. Decided first thing to do when getting back is getting a truck with facilities
+    - Rex/Hex shared dark secret with Parkman. What made you trust them?
+        - Burned down hometown playing with magic. Fled the planet and ended up here.
+        - Mentioned to Parkman to see if there is a way to get magic under control
+    - Parkman wants Rex/Hex to try something new. What is it and why haven't they done it yet.
+        - Try new potion that converts magic in body and converts to raw unbridled power. Hex thinks it is stupid and keeps stopping
+        - Rex shouldn't keep coming to
+    - There is someone whom everyone in our group dislikes. Who are they and why
+        - 3 person council oversees (head of terraforming, chief resource officer, major type)
+            - Crevice overseer - he is a stooge. Trying to make this a money making enterprise.
+                - The vorgons/giant snail people. Beaucracy lords. Cowardly and hides in shell. They react poorly to spores
+                    - Regional Director Torga
+    - Which event or holiday is celebrated more than any other in our location?
+        - Spore seasons (Splooms) happen periodically (roughly around the time of the lunar eclipse)
+        - Effects people (start getting visions, etc.). Becoming religious for some and hated by others.
+        - There is a higher spore concentration in a part of town and people consolidate there for festivities
+    - What kind of art is popular in our location and how do we appreciate?
+        - Acoustic/singing
+        - Echo chamber/amphitheater - celebrate with song and a religious order that does Gregorian chants
+    - You idolize someone in our location. Who is it and how are they inspirational?
+        - Another Twynar person in city (head of engineering, name TBD). Twynar tend to get along and Rex/Hex is an outlier
+    - What line has the group already crossed?
+        - What if did something horrible/secret to a bad corporation
+        - We were approached and got mission and it wasn't fully above board
+        - Corpo brought a colony of slaves because "legal". Not a thing on this planet.
+        - We freed them and now there is a roving colony of some other group of ex-slaves
+        - Escorted agent posing as interviewer to a slave colony (facility 60). They began letting people go, go killed, and we were going to get blames and kept it
+            - Octopus type creature (tentacle + face type) that fled to great lakes type area
+                - The Kathude (sp?)
+    - What do we do as a group when we are feeling down?
+        - Hit the frontier looking for adventures and trouble. Go searching for more
+        - Maybe we have a private crevice? Home type place for us. Go there and plan next adventure
+        - Fast growing natural crystal. We have a technique that allows us to find a faster than a corporation
+            - Majority of crystals shorten life, some can increase life. Crick knows how to find and
+    - Our group revealed a major truth about someone powerful. What was it?
+        - Revealed secret about old terraforming head. Human named - Anushka Sokala
+            - Purposely sabotaging the terraforming in our region to show that our corporation is incompetent (working with another crevice/company?)
+            - Terraform for human advantage
+            - Funneling resources to build robot army
+            - Left crevice
+    - Our group supports a set establishment. Who are they are why do we support them
+    - Homesteaders union that doesn't like corporate taking the land that was promised
+    - Adventurers guide (Nomad Confederacy 87)
+        - Crick/Rex/Hex members of NC87, but maybe 20-30 total members. We drag Parkman along with us
+    - Didn't always get along, but somewhat unifying against corporate
