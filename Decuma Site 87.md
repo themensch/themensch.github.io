@@ -1,5 +1,5 @@
 ---
-title: Decuma_Site_87
+title: Decuma Site 87
 aliases: 
 tags: rpg, Genesys, Campaign/Cosmic_Dispersal
 sources:
