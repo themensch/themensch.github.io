@@ -4,7 +4,7 @@ aliases:
 tags: rpg, Genesys, Campaign/Cosmic_Dispersal 
 sources:
 created: 2024-04-20T16:19
-modified: 2024-04-27T21:23
+modified: 2024-04-27T21:38
 ---
 
 ![The Truck](assets/Truck_01.jpg)
@@ -14,7 +14,7 @@ Based on the EotI Rambler mated with a truck
 |Silhouette|Max Speed|Handling|Armor|Defense|
 |:--------:|:-------:|:------:|:---:|:-----:|
 |       3  |   3     |   -1   | 1   | 0     |
-|HT Threshold| 10 | SS Threshold | 10|
+|HT Threshold| 10 | SS Threshold | 10||
 
 - **Control Skill:** [Driving](https://genesysref.netlify.app/skill/driving_crb).
 - **Complement:** 1 driver, 1 gunner
@@ -31,7 +31,5 @@ Weapons:
 
 | Name | Firing Arc | Skill | Damage | Critical | Range |
 | ---- | ---------- | ----- | ------ | -------- | ----- |
- 1 turret-mounted assault cannon | All | [Gunnery](https://genesysref.netlify.app/skill/gunnery_crb) | 1   | 4   | Long 
-||Qualities   | [Auto-fire](https://genesysref.netlify.app/quality/auto-fire_crb) |  
-
-
+| 1 turret-mounted assault cannon | All | [Gunnery](https://genesysref.netlify.app/skill/gunnery_crb) | 1   | 4   | Long |
+||Qualities   | [Auto-fire](https://genesysref.netlify.app/quality/auto-fire_crb) |||||
