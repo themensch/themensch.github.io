@@ -4,7 +4,7 @@ aliases:
 tags: rpg, Genesys
 sources:
 created: 2024-04-06T15:07
-modified: 2024-04-06T15:41
+modified: 2024-04-26T21:50
 ---
 
 # XP Expenditures
