@@ -4,7 +4,7 @@ aliases:
 tags: Genesys, Campaign/Cosmic_Dispersal 
 sources:
 created: 2024-04-15T20:34
-modified: 2024-04-15T21:00
+modified: 2024-04-29T20:45
 ---
 
 Session Notes
@@ -106,6 +106,6 @@ Session Notes
             - Left crevice
     - Our group supports a set establishment. Who are they are why do we support them
     - Homesteaders union that doesn't like corporate taking the land that was promised
-    - Adventurers guide (Nomad Confederacy 87)
+    - Adventurers guild (Nomad Confederacy 87)
         - Crick/Rex/Hex members of NC87, but maybe 20-30 total members. We drag Parkman along with us
     - Didn't always get along, but somewhat unifying against corporate
