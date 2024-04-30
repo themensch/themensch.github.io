@@ -4,7 +4,7 @@ aliases:
 tags: rpg, Genesys, Campaign/Cosmic_Dispersal 
 sources:
 created: 2024-04-29T10:31
-modified: 2024-04-29T10:36
+modified: 2024-04-30T08:47
 ---
 
 These are the links to keep handy:
@@ -20,3 +20,7 @@ These are the links to keep handy:
 [Crick](https://app.rpgsessions.com/char/6626bcd7b52e928f91a03fdf)  
 [Rex](https://app.rpgsessions.com/char/66256aa1d23bc243957609fc)  
 [Hex](https://app.rpgsessions.com/char/nds/66256c38d23bc24395760a09)
+
+## Google Docs
+
+[Interstice Expedition Equipment](https://docs.google.com/document/d/1ncRsY6MLkeW3DeGpAeNzLzbaGafVoV5cEwmrtEnBQlo/edit)

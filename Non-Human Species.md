@@ -4,7 +4,7 @@ aliases:
 tags: Genesys, rpg, Campaign/Cosmic_Dispersal
 sources:
 created: 2024-04-29T20:35
-modified: 2024-04-29T20:50
+modified: 2024-04-30T08:48
 ---
 
 ## Sentient Species
@@ -14,7 +14,7 @@ Kathude -  Octopi
 Myconids -  fungi  
 Twynar - two headed, single bodied  
 Veskiss - insectoids  
-Yulprothi - Spider Angels  
+Yulprothi - Millipede Angels  
 
 ## Notable Creatures
 
