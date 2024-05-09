@@ -4,7 +4,7 @@ aliases:
 tags: rpg, Genesys, Campaign/Cosmic_Dispersal 
 sources:
 created: 2024-04-20T16:19
-modified: 2024-04-27T21:38
+modified: 2024-05-08T18:45
 ---
 
 ![The Truck](assets/Truck_01.jpg)
@@ -31,5 +31,5 @@ Weapons:
 
 | Name | Firing Arc | Skill | Damage | Critical | Range |
 | ---- | ---------- | ----- | ------ | -------- | ----- |
-| 1 turret-mounted assault cannon | All | [Gunnery](https://genesysref.netlify.app/skill/gunnery_crb) | 1   | 4   | Long |
-||Qualities   | [Auto-fire](https://genesysref.netlify.app/quality/auto-fire_crb) |||||
+| 1 turret-mounted assault cannon | All | [Gunnery](https://genesysref.netlify.app/skill/gunnery_crb) | 15   | 3   | Long |
+||Qualities   | [Auto-fire](https://genesysref.netlify.app/quality/auto-fire_crb) |[Inaccurate 1](https://genesysref.netlify.app/quality/inaccurate_crb)|[Pierce 3](https://genesysref.netlify.app/quality/pierce_crb)|[Vicious 3](https://genesysref.netlify.app/quality/pierce_crb)|
