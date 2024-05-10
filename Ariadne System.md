@@ -4,7 +4,7 @@ aliases:
 tags: 
 sources:
 created: 2024-05-03T17:23
-modified: 2024-05-09T21:07
+modified: 2024-05-09T21:08
 ---
 
 The Ariadne system is a binary star system dominated by two red dwarfs spiraling towards their eventual demise. At the heart of this system lies a stunning emerald gas giant, three times the size of Jupiter and positioned just beyond the habitable zone. This giant is orbited by several large moons, including smaller "moon moons," where our story unfolds—particularly on Ariadne 4b.1.
@@ -17,4 +17,4 @@ Initially targeted as a farming colony due to its predictable climate, Ariadne 4
 
 The recent surge in population and machinery from distant ports has overwhelmed the infrastructure of Ariadne 4b.1. Additionally, the arrival of foreign parasites with inadequately screened prospectors has significantly increased the workload for the local health teams.
 
-!ß[Ariadne System Diagram](assets/Ariadne_System)
+![Ariadne System Diagram](assets/Ariadne_System.svg)
