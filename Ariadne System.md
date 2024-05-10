@@ -16,3 +16,5 @@ Thanks to centuries of terraforming, the climate on Ariadne 4b.1 is now hospitab
 Initially targeted as a farming colony due to its predictable climate, Ariadne 4b.1 has recently become the center of attention for another reason: the discovery of subterranean crystals. One type, a common euphoric, is based on a salt compound that many use recreationally. However, a much rarer variant—almost identical in appearance—has been found to significantly extend life in humans and human-like species. This has triggered a rush, attracting an influx of workers eager to extract these valuable crystals. These individuals often live in makeshift surface accommodations, leading to a societal split between those living "in the canyon" (the Ins) and those outside (the Outs).
 
 The recent surge in population and machinery from distant ports has overwhelmed the infrastructure of Ariadne 4b.1. Additionally, the arrival of foreign parasites with inadequately screened prospectors has significantly increased the workload for the local health teams.
+
+![[Ariadne System.svg]]
