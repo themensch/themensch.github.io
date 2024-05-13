@@ -4,10 +4,10 @@ aliases:
 tags: 
 sources:
 created: 2024-05-03T17:23
-modified: 2024-05-09T21:08
+modified: 2024-05-12T13:46
 ---
 
-The Ariadne system is a binary star system dominated by two red dwarfs spiraling towards their eventual demise. At the heart of this system lies a stunning emerald gas giant, three times the size of Jupiter and positioned just beyond the habitable zone. This giant is orbited by several large moons, including smaller "moon moons," where our story unfolds—particularly on Ariadne 4b.1.
+The Ariadne system is a binary star system dominated by two red dwarfs spiraling towards their eventual demise. At the heart of this system lies a stunning emerald gas giant, three times the size of Jupiter and positioned just beyond the habitable zone. This giant is orbited by several large moons, including smaller "moon moons," where our story unfolds—particularly on Ariadne 4c.1.
 
 Ariadne 4b.1, a diminutive, muddy world, fiercely holds onto its thin atmosphere. About 500 years ago, it was identified as a potential candidate for terraforming. Today, the moon moon experiences predictable yet extremely varied seasons: three dry periods interspersed with two wet seasons. During the dry times, high clouds often form, tinting the red light from the stars orange—a spectacle caused by volatile gases in the atmosphere. In contrast, the wet seasons bring dense clouds that cast a reddish-purple gloom lasting weeks.
 
