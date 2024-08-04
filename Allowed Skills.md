@@ -4,7 +4,7 @@ aliases:
 tags: rpg, Genesys
 sources:
 created: 2024-04-06T14:36
-modified: 2024-04-16T18:26
+modified: 2024-08-04T11:03
 ---
 
 |Name|Characteristic|Category|Source|
@@ -22,7 +22,6 @@ modified: 2024-04-16T18:26
 |Discipline|Willpower|General|CRB|
 |Driving|Agility|General|CRB|
 |Gunnery|Agility|Combat|CRB|
-|Knowledge|Intellect|Knowledge|CRB|
 |Knowledge (Culture)|Intellect|Knowledge|EotI|
 |Knowledge (Lore)|Intellect|Knowledge|EotI|
 |Knowledge (Science)|Intellect|Knowledge|EPG|
