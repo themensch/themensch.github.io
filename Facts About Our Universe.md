@@ -1,10 +1,10 @@
 ---
 title: Facts About Our Universe
 aliases: 
-tags: rpg, Genesys
+tags: rpg, Genesys, Campaign/Cosmic_Dispersal 
 sources:
 created: 2024-04-06T14:39
-modified: 2024-04-10T18:33
+modified: 2024-11-06T12:09
 ---
 
 # Facts About Our Universe
