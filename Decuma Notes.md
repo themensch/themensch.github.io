@@ -4,7 +4,7 @@ aliases:
 tags: Genesys, Campaign/Cosmic_Dispersal 
 sources:
 created: 2024-04-15T20:34
-modified: 2024-04-29T20:45
+modified: 2024-11-12T17:04
 ---
 
 Session Notes
@@ -74,7 +74,7 @@ Session Notes
     - There is someone whom everyone in our group dislikes. Who are they and why
         - 3 person council oversees (head of terraforming, chief resource officer, major type)
             - Crevice overseer - he is a stooge. Trying to make this a money making enterprise.
-                - The vorgons/giant snail people. Beaucracy lords. Cowardly and hides in shell. They react poorly to spores
+                - The vorgons/giant snail people. Beauracracy lords. Cowardly and hides in shell. They react poorly to spores
                     - Regional Director Torga
     - Which event or holiday is celebrated more than any other in our location?
         - Spore seasons (Splooms) happen periodically (roughly around the time of the lunar eclipse)
