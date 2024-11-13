@@ -4,7 +4,7 @@ aliases:
 tags: Genesys, rpg, Campaign/Cosmic_Dispersal
 sources:
 created: 2024-04-29T20:35
-modified: 2024-11-07T18:37
+modified: 2024-11-12T17:05
 ---
 
 ## Sentient Species
@@ -12,8 +12,8 @@ modified: 2024-11-07T18:37
 Cilæstræ -  algae  
 Kathude -  octopi  
 Myconids -  fungi  
-Shallax - snails  
-Twynar - two headed, single bodied  
+Vorgons - snails  
+Twynars - two headed, single bodied  
 Veskiss - insectoids  
 Yulprothi - millipede angels  
 Gerbergi - Frog-like humanoids  
