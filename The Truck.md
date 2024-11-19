@@ -7,7 +7,7 @@ created: 2024-04-20T16:19
 modified: 2024-05-08T18:45
 ---
 
-![The Truck](assets/Truck_01.jpg)
+![The Truck](Truck_01.jpg)
 
 Based on the EotI Rambler mated with a truck
 
