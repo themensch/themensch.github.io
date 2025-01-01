@@ -4,7 +4,7 @@ aliases:
 tags: rpg, Genesys, Campaign/Cosmic_Dispersal 
 sources:
 created: 2024-04-20T16:19
-modified: 2024-05-08T18:45
+modified: 2024-12-31T16:30
 ---
 
 ![The Truck](Truck_01.jpg)

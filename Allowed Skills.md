@@ -1,10 +1,10 @@
 ---
 title: Allowed Skills
 aliases: 
-tags: rpg, Genesys
+tags: rpg, Genesys, Campaign/Cosmic_Dispersal
 sources:
 created: 2024-04-06T14:36
-modified: 2024-08-04T11:03
+modified: 2024-12-31T16:29
 ---
 
 |Name|Characteristic|Category|Source|

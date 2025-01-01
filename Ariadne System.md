@@ -1,10 +1,10 @@
 ---
 title: Ariadne System
 aliases: 
-tags: 
+tags: Genesys, Campaign/Cosmic_Dispersal, rpg
 sources:
 created: 2024-05-03T17:23
-modified: 2024-10-20T17:05
+modified: 2024-12-31T16:20
 ---
 
 The Ariadne system is a binary star system dominated by two red dwarfs spiraling towards their eventual demise. At the heart of this system lies a stunning emerald gas giant, three times the size of Jupiter and positioned just beyond the habitable zone. This giant is orbited by several large moons, including smaller "moon moons," where our story unfolds—particularly on Ariadne 4c.1.
