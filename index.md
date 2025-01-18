@@ -1,7 +1,7 @@
 ---
 title: index
 aliases: 
-tags: Genesys, Campaign/Cosmic_Dispersal, rpg
+tags: System/Genesys, Campaign/Cosmic_Dispersal, rpg
 sources:
 created: 2024-04-05T21:01
 modified: 2024-06-03T06:34

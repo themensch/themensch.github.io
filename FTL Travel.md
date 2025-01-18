@@ -1,7 +1,7 @@
 ---
 title: FTL Travel
 aliases: 
-tags: rpg, Genesys, Campaign/Cosmic_Dispersal 
+tags: rpg, System/Genesys, Campaign/Cosmic_Dispersal 
 sources:
 created: 2024-04-23T16:56
 modified: 2024-12-31T16:29

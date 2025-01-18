@@ -1,7 +1,7 @@
 ---
 title: Magic Rules
 aliases: 
-tags: rpg, Genesys, Campaign/Cosmic_Dispersal 
+tags: rpg, System/Genesys, Campaign/Cosmic_Dispersal 
 sources:
 created: 2024-04-23T16:54
 modified: 2024-05-12T14:09

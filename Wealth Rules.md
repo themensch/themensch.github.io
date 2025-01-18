@@ -1,7 +1,7 @@
 ---
 title: Wealth Rules
 aliases: 
-tags: rpg, Genesys, Campaign/Cosmic_Dispersal 
+tags: rpg, System/Genesys, Campaign/Cosmic_Dispersal 
 sources:
 created: 2024-04-16T18:23
 modified: 2024-05-07T18:06

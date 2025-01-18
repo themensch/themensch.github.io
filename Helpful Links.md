@@ -1,7 +1,7 @@
 ---
 title: Helpful Links
 aliases: 
-tags: rpg, Genesys, Campaign/Cosmic_Dispersal 
+tags: rpg, System/Genesys, Campaign/Cosmic_Dispersal 
 sources:
 created: 2024-04-29T10:31
 modified: 2024-05-01T09:55

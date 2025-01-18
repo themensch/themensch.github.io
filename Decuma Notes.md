@@ -1,7 +1,7 @@
 ---
 title: Decuma Notes
 aliases: 
-tags: Genesys, Campaign/Cosmic_Dispersal , rpg
+tags: System/Genesys, Campaign/Cosmic_Dispersal , rpg
 sources:
 created: 2024-04-15T20:34
 modified: 2024-12-31T16:29

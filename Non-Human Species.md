@@ -1,7 +1,7 @@
 ---
 title: Non-Human Species
 aliases: 
-tags: Genesys, rpg, Campaign/Cosmic_Dispersal
+tags: System/Genesys, rpg, Campaign/Cosmic_Dispersal
 sources:
 created: 2024-04-29T20:35
 modified: 2024-11-12T17:05

@@ -1,7 +1,7 @@
 ---
 title: Ariadne System
 aliases: 
-tags: Genesys, Campaign/Cosmic_Dispersal, rpg
+tags: System/Genesys, Campaign/Cosmic_Dispersal, rpg
 sources:
 created: 2024-05-03T17:23
 modified: 2024-12-31T16:20
